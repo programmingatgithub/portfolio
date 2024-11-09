@@ -1,0 +1,1 @@
+In this Repository,i have developed a portfolio interface using HTML,CSS and JAVASCRIPT.It contains Introduction,Education,Achievements<skill sections and projects.it includes a query section with socail media links.many contents are yet to add.
